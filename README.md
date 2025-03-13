@@ -4,11 +4,11 @@ A fullstack web application built with the MERN stack that allows users to sign 
 [Click here](https://memories-note-app.vercel.app/) to preview
 
 ## App Screenshots
-![Screenshot (5)](https://github.com/Adil0710/Memories-a-note-app/assets/91872021/1d306c61-908d-4a84-8d0a-390a36b8c7bd)
+![Screenshot (5)](https://github.com/0xalberto/Memories-notes/assets/91872021/1d306c61-908d-4a84-8d0a-390a36b8c7bd)
 
-![Screenshot (6)](https://github.com/Adil0710/Memories-a-note-app/assets/91872021/9481f0f6-c1ee-48b1-8934-83cac7204783)
-![light](https://github.com/Adil0710/Memories-a-note-app/assets/91872021/d4854f58-76f2-421b-a209-e4cfaf5397cd)
-![dark](https://github.com/Adil0710/Memories-a-note-app/assets/91872021/feb30706-0ac0-4373-ac6b-ad550db7ab73)
+![Screenshot (6)](https://github.com/0xalberto/Memories-notes/assets/91872021/9481f0f6-c1ee-48b1-8934-83cac7204783)
+![light](https://github.com/0xalberto/Memories-notes/assets/91872021/d4854f58-76f2-421b-a209-e4cfaf5397cd)
+![dark](https://github.com/0xalberto/Memories-notes/assets/91872021/feb30706-0ac0-4373-ac6b-ad550db7ab73)
 
 
 
@@ -53,7 +53,7 @@ Make sure you have the following installed on your local development machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Adil0710/Memories-a-note-app.git
+    git clone https://github.com/0xalberto/Memories-notes.git
     cd Memories-a-note-app
     ```
 
